@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @JXQW
-- 👀 I’m interested in ...
+- 👀 I’m interested nothing related to coding at the moment.
 - 🌱 I’m currently learning javascript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me by email. crippleddesk@gmail.com
 
 <!---
 JXQW/JXQW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
